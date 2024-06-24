@@ -1,4 +1,8 @@
 # Gopinadh-ICP-1
+video link: [https://ucmo0-my.sharepoint.com/:v:/g/personal/gxk38190_ucmo_edu/EYVQcQFAMshBprgw06RHlUIBaRDoSDeYYjCykuz5Wi7Hnw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=fItnC2]
+
+
+
 Q1: – Input the string “Python” as a list of characters from console, delete at least 2 characters, reverse the
 resultant string and print it.
 A: Code accepts the input from the user and converts it to list of characters and using for-loop and del deletes first and second index and using .reverse() reveerses the list of charcaters and finally using .join() joins the list of characters into a string and prints the result
